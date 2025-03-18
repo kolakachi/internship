@@ -151,10 +151,11 @@ Web pages are built using:
 ## Conclusion
 
 Understanding the **internet's fundamentals** is key to becoming a skilled web developer. In this guide, we explored:
-✅ The difference between the Internet and the WWW
-✅ How ISPs, IPs, and domain names work
-✅ HTTP vs. HTTPS and web security
-✅ The role of DNS and Client-Server architecture
-✅ The basics of HTML & CSS
+
+✅ The difference between the Internet and the WWW  
+✅ How ISPs, IPs, and domain names work  
+✅ HTTP vs. HTTPS and web security  
+✅ The role of DNS and Client-Server architecture  
+✅ The basics of HTML & CSS  
 
 For deeper learning, explore the links provided. Happy coding! 🎉
